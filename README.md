@@ -1,0 +1,2 @@
+# Temperatures
+CodingGame Temperatures Solution
